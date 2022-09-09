@@ -9,7 +9,7 @@ pet-fullstack [project:](https://video-go-front.vercel.app/)
 * Database: [Heroku Postgres](https://devcenter.heroku.com/articles/heroku-postgresql),
 * ORM: [TypeORM](https://typeorm.io/),
 * Static data storage: [AWS_S3](https://docs.aws.amazon.com/s3/index.html?nc2=h_ql_doc_s3),
-* Deployed at: [Heroku](https://heroku.com)
+* Deployed on: [Heroku](https://heroku.com)
 
 ## 🔎 REST API Documentation
 
@@ -26,7 +26,7 @@ $ npm install
 <ul>
 <li>PORT = <i>number</i> (Default: 8080)</li>
 <li>DB_JWT_SECRET = <i>string</i></li>
-<li><i>DATABASE_URL*</i> = <i>number</i></li>
+<li><i>DATABASE_URL*</i> = <i>string</i></li>
 <li>POSTGRES_PORT = <i>number</i></li>
 <li>POSTGRES_DB = <i>string</i></li>
 <li>POSTGRES_HOST = <i>string</i></li>
