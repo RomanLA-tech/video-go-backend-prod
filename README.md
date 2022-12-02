@@ -6,14 +6,14 @@ Hi there! This is the server-application of [my](https://github.com/RomanLA-tech
 pet-fullstack [project:](https://video-go-front.vercel.app/)
 
 * Based on [NestJS](https://github.com/nestjs/nest).
-* Database: [Heroku Postgres](https://devcenter.heroku.com/articles/heroku-postgresql),
+* Database: Postgres,
 * ORM: [TypeORM](https://typeorm.io/),
 * Static data storage: [AWS_S3](https://docs.aws.amazon.com/s3/index.html?nc2=h_ql_doc_s3),
 * Deployed on: [Railway](https://docs.railway.app/)
 
 ## 🔎 REST API Documentation
 
-* [LINK](https://video-go-api-app.herokuapp.com/api/docs)
+* [LINK](https://web-production-c950.up.railway.app/api/docs)
 
 ## 📌 Installation
 
