@@ -9,7 +9,7 @@ pet-fullstack [project:](https://video-go-front.vercel.app/)
 * Database: [Heroku Postgres](https://devcenter.heroku.com/articles/heroku-postgresql),
 * ORM: [TypeORM](https://typeorm.io/),
 * Static data storage: [AWS_S3](https://docs.aws.amazon.com/s3/index.html?nc2=h_ql_doc_s3),
-* Deployed on: [Heroku](https://heroku.com)
+* Deployed on: [Railway](https://docs.railway.app/)
 
 ## 🔎 REST API Documentation
 
@@ -27,11 +27,11 @@ $ npm install
 <li>PORT = <i>number</i> (Default: 8080)</li>
 <li>DB_JWT_SECRET = <i>string</i></li>
 <li><i>DATABASE_URL*</i> = <i>string</i></li>
-<li>POSTGRES_PORT = <i>number</i></li>
-<li>POSTGRES_DB = <i>string</i></li>
-<li>POSTGRES_HOST = <i>string</i></li>
-<li>POSTGRES_USER = <i>string</i></li>
-<li>POSTGRES_PASSWORD = <i>string</i></li>
+<li>PGPORT = <i>number</i></li>
+<li>PGDATABASE = <i>string</i></li>
+<li>PGHOST = <i>string</i></li>
+<li>PGUSER = <i>string</i></li>
+<li>PGPASSWORD = <i>string</i></li>
 <li>AWS_S3_BUCKET_NAME = <i>string</i></li>
 <li>AWS_BUCKET_REGION = <i>string</i></li>
 <li>AWS_S3_ACCESS_KEY = <i>string</i></li>
